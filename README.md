@@ -1,6 +1,3 @@
-[![L10Messi10's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=L10Messi10&theme=dracula)](https://github.com/L10Messi10/github-readme-activity-graph)
-
-
 ![My GitHub stats](https://github-readme-stats2-virid.vercel.app/api?username=L10Messi10&count_private=true&show_icons=true&theme=radical)
 
 # 💻 Tech Stack:
@@ -10,4 +7,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-[![](https://visitcount.itsvg.in/api?id=L10Messi&icon=5&color=10)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=L10Messi10&icon=5&color=10)](https://visitcount.itsvg.in)
+
+[![L10Messi10's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=L10Messi10&theme=dracula)](https://github.com/L10Messi10/github-readme-activity-graph)
+
